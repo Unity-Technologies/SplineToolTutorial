@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplineTool", "Assembly-CSharp.csproj", "{2392392E-7050-E15D-678A-94AA2B7A4996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplineTool", "Assembly-CSharp-Editor.csproj", "{D82B5208-C30B-698E-8BBA-90D7D61F884C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2392392E-7050-E15D-678A-94AA2B7A4996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2392392E-7050-E15D-678A-94AA2B7A4996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2392392E-7050-E15D-678A-94AA2B7A4996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2392392E-7050-E15D-678A-94AA2B7A4996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82B5208-C30B-698E-8BBA-90D7D61F884C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82B5208-C30B-698E-8BBA-90D7D61F884C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82B5208-C30B-698E-8BBA-90D7D61F884C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82B5208-C30B-698E-8BBA-90D7D61F884C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
